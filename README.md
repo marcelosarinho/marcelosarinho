@@ -1,5 +1,8 @@
 # Hello! I'm Marcelo Sarinho.
 
+## About me
+I'm a Front-End Developer who started programming in 2021, and since then, I've fell in love with it. My main focus right now is to become a Full-Stack Developer in the web development area and contribute to Open-Source Projects. I'm 21, and I live in Brazil.
+
 
 ![Profile views](https://gpvc.arturio.dev/marcelosarinho)
 
