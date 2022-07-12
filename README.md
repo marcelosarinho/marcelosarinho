@@ -3,6 +3,12 @@
 ## About me
 I'm a Front-End Developer who started programming in 2021, and since then, I've fell in love with it. My main focus right now is to become a Full-Stack Developer in the web development area and contribute to Open-Source Projects. I'm 21, and I live in Brazil.
 
+### Status
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelosarinho&show_icons=true&theme=tokyonight)
+
+### Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosarinho&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
