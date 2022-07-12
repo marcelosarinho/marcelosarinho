@@ -29,7 +29,7 @@ I'm a Front-End Developer who started programming in 2021, and since then, I've 
 ## Contact
 <a href="https://github.com/marcelosarinho">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 <a href="https://www.linkedin.com/in/marcelo-sarinho-a4706923a/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="mailto:marceloactsarinho@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 <!--
 **marcelosarinho/marcelosarinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
