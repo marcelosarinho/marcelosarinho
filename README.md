@@ -23,7 +23,7 @@ I'm a Front-End Developer who started programming in 2021, and since then, I've 
 ## Studying
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-COBOL
+<strong>COBOL</strong>
 
 ## Contact
 <a href="https://github.com/marcelosarinho">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
