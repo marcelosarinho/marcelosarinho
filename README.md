@@ -1,7 +1,7 @@
 # Hello! I'm Marcelo Sarinho.
 
 ## About me
-I'm a Front-End Developer who started programming in 2021, and since then, I've fell in love with it. My main focus right now is to become a Full-Stack Developer in the web development area and contribute to Open-Source Projects. I'm 21, and I live in Brazil.
+I'm a Front-End Developer who started programming in 2021, and since then, I've fell in love with it. My main focus right now is to become a Full-Stack Developer in the web development area and contribute to Open-Source Projects. I'm 23, and I live in Brazil.
 
 ### Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelosarinho&show_icons=true&theme=tokyonight)
@@ -19,13 +19,16 @@ I'm a Front-End Developer who started programming in 2021, and since then, I've 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ## Studying
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-<strong>COBOL</strong>
 
 ## Contact
 <a href="https://github.com/marcelosarinho">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
